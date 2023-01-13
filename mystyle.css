@@ -1,0 +1,19 @@
+h2 {
+    color: rgb(0, 255, 13);
+}
+
+body {
+    background-color: rgb(8, 134, 124);
+}
+
+p {
+    color: rgb(8, 24, 2);
+}
+
+.song-lyrics {
+    background-color: yellow;
+}
+
+#rabbits-info-heading {
+    background-color: purple;
+}
